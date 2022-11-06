@@ -1,13 +1,17 @@
 {
-  "name": "atom-package-template",
-  "theme": "atom-package-template",
+  "name": "789KM_SLOT_PG.git",
+  "theme": "เว็บตรง อันดับ1 789KM เว็บตรงไม่ผ่านเอเยนต์",
   "version": "0.10.9",
-  "description": "เพิ่มตรงนี้",
+  "description": "เว็บตรง อันดับ1 789KM เว็บตรงไม่ผ่านเอเยนต์ี้",
   "keywords": [
-    "ใส่เพิ่มตรงนี้",
-    "เพิ่มตรงนี้"
+    "เว็บตรง",
+    "เว็ปตรง",
+    "เว็บตรงไม่ผ่านเอเยนต์",
+    "PG",
+    "SA",
+    "789KM"
   ],
-  "repository": "https://github.com/7elven/atom-package-template",
+  "repository": "https://github.com/mrslomo/789KM_SLOT_PG.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
